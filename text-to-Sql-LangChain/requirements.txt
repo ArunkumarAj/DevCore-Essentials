@@ -1,0 +1,36 @@
+# pip install langchain_openai langchain_community langchain pymysql chromadb -q
+langchain_groq
+langchain_openai
+langchain_community
+langchain 
+pymysql 
+chromadb
+langchain-google-genai
+
+
+# agno
+# python-dotenv
+# sqlalchemy
+# openai
+
+# duckduckgo-search
+# pypdf
+# lancedb
+# pandas
+# tantivy
+# yfinance
+
+
+
+
+
+# langgraph 
+# langsmith 
+# langchain 
+# langchain_groq 
+# langchain_community
+
+
+# Tools libraries
+# arxiv 
+# wikipedia
